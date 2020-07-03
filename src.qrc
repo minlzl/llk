@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/3.png</file>
+        <file>image/4.png</file>
+        <file>image/5.png</file>
+        <file>image/6.png</file>
+        <file>image/7.png</file>
+        <file>image/8.png</file>
+        <file>image/9.png</file>
+        <file>image/10.png</file>
+        <file>image/11.png</file>
+        <file>image/12.png</file>
+        <file>image/13.png</file>
+        <file>image/14.png</file>
+        <file>image/15.png</file>
+        <file>image/16.png</file>
+        <file>C:/Users/刘子乐/Pictures/test.bmp</file>
+        <file>image/test.bmp</file>
+    </qresource>
+</RCC>
